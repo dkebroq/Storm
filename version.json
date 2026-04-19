@@ -1,1 +1,1 @@
-{"version":"1.1","versionCode":11,"url":"https://raw.githubusercontent.com/dkebroq/Storm/main/Storm.apk","changelog":"Initial release","required":false}
+{"version":"1.2","versionCode":12,"url":"https://raw.githubusercontent.com/dkebroq/Storm/main/Storm.apk","changelog":"WebEngine logging, async update check, RU-only web services, dark/light theme, proxy fixes","required":false}
